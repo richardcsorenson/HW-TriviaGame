@@ -3,12 +3,6 @@
     height: .25rem;
 }
 
-body{
-    background-image: url(assets/images/backround.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
 .container{
     color: white;
 }
